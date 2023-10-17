@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frasprite
 - 👀 I’m interested in Android, Kotlin and (off topic) comics
-- 🌱 I’m currently learning Jetpack Compose (on free time, deep in the night..)
+- 🌱 Learning new things (on free time, deep in the night..)
 - 💞️ I’m looking to collaborate on whatever I'm interested (see above!)
 - 📫 You can reach me here or on [StackOverflow](https://stackoverflow.com/users/2013835/jj86) 
 
